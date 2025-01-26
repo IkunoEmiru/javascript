@@ -1,6 +1,21 @@
 html, body{
     height: 100%;
     width: 100%;
-    background: lightpink;
-    background-image: url("12888.jpg");
+    background: lightgray;
+    /* background-image: url("12888.jpg"); */
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    background-color: red;
+
+}
+
+nav, li{
+    list-style: none;
+    padding: 0 23px;    
 }

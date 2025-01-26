@@ -9,7 +9,19 @@ html, body{
     padding: 0;
 }
 
-nav{
+/* div {
+    display: flex;
+    justify-content: center;
+    padding-top: 17%;
+    font-size: 10;
+  } */
+
+button {
+    display: block;
+    margin: auto;
+    justify-content: center;
+}
+/* nav{
     display: flex;
     background-color: red;
 
@@ -18,4 +30,4 @@ nav{
 nav, li{
     list-style: none;
     padding: 0 23px;    
-}
+} */

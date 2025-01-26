@@ -1,0 +1,6 @@
+let a = document.getElementById("first")
+// a.insertAdjacentHTML("beforeend", "<div class='test'>beforeend</div>")
+// a.insertAdjacentHTML("beforebegin", "<div class='test'>beforebegin</div>")
+// a.insertAdjacentHTML("afterend", "<div class='test'>afterend</div>")
+// a.insertAdjacentHTML("afterbegin", "<div class='test'>afterbegin</div>")
+// a.remove()

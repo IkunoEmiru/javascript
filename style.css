@@ -21,6 +21,20 @@ button {
     margin: auto;
     justify-content: center;
 }
+
+.yellow{
+    background-color: yellow;
+    color: purple;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
+
+.text-dark{
+    color: black;
+}
 /* nav{
     display: flex;
     background-color: red;

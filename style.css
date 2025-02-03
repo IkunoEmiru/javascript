@@ -9,6 +9,14 @@ html, body{
     padding: 0;
 }
 
+.bulb{
+    background: yellow;
+}
+
+.bulb-container{
+    height: 34px;
+    width: 34px;
+}
 /* div {
     display: flex;
     justify-content: center;

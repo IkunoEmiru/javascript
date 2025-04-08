@@ -10,7 +10,7 @@ let b = document.getElementsByTagName("button")[0]
 let x = function(event){
     console.log(event)
     console.log(event.target)
-    console.log(event.clientX)
+    console.log(event.clientX)  
     console.log(event.clientY)
     console.log(event.type)
 }

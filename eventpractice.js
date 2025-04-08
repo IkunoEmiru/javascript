@@ -4,11 +4,11 @@
 //     win.focus()
 // }
 
-// document.getElementById("Google").addEventListener("click",x)
+// document.getElementById("bk1").addEventListener("click",x)
 
 // const fetchContent = async (url) =>{
 //     con = await fetch(url)
-//     let a = await con.json()
+//     let a = await con.json()    
 //     return a
 // }
 
@@ -21,4 +21,4 @@ let a = document.getElementById("glowbulb")
 
 const b =() => {a.classList.toggle("bulb")}
 
-setInterval(b,500)
+setInterval(b,100)
